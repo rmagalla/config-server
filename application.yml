@@ -1,0 +1,11 @@
+spring:
+  profiles: dev
+rest.service.cloud.config.example= GitRepository example value for private service - dev
+
+spring:
+  profiles: cer
+rest.service.cloud.config.example= GitRepository example value for private service - cer
+
+spring:
+  profiles: pro
+rest.service.cloud.config.example= GitRepository example value for private service - pro
